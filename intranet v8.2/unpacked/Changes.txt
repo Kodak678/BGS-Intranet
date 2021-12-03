@@ -1,0 +1,10 @@
+v8.1------------------------------------------
+
+#Added sociology box with div id Soc and a link to https://sites.google.com/burnhamgrammar.org.uk/
+#Changed colour of active box to orange/yellow to fit colour scheme
+#Centered tab.navbar
+#made the text inside the tabs responsive
+
+v8.2-------------------------------------------------
+#Added writing exhibition site to english tab/button
+#Changed favicon image to bgs logo (old still there)
